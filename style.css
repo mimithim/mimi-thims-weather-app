@@ -42,7 +42,7 @@ footer {
   margin: 20px auto;
   border-radius: 8px;
   max-width: 600px;
-  background-color: linear-gradient(to top, #dfe9f3 0%, white 100%);
+  background: linear-gradient(to top, #dfe9f3 0%, white 100%);
 }
 .day {
   margin-top: 10px;
