@@ -37,12 +37,12 @@ footer {
 }
 
 .weather-app {
-  border: 1px solid #d9d9d9;
+  border: 1px solid #fff;
   padding: 15px;
   margin: 20px auto;
   border-radius: 8px;
   max-width: 600px;
-  background-color: #fff;
+  background-color: linear-gradient(to top, #dfe9f3 0%, white 100%);
 }
 .day {
   margin-top: 10px;
