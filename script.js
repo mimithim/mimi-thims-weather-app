@@ -72,11 +72,6 @@ function showFahrenheit(event) {
   let temperature = document.querySelector("#temperature");
   temperature.innerHTML = 66;
 }
-//temps-Feature
-let celsius = document.querySelector("#celsius-link");
-celsius.addEventListener("click", showCelsius);
-let fahrenheit = document.querySelector("#fahrenheit-link");
-fahrenheit.addEventListener("click", showFahrenheit);
 let dateElement = document.querySelector("#date");
 let currentTime = new Date();
 dateElement.innerHTML = formatDate(currentTime);
