@@ -72,3 +72,8 @@ footer {
   top: -18px;
   font-size: 12px;
 }
+.weather-icon-today {
+  height: 64px;
+  width: 64px;
+  float: left;
+}
